@@ -1,0 +1,13 @@
+body {
+  background: pink !important;
+}
+
+#main {
+  background-color: whitesmoke;
+  text-align: center;
+  border-radius: 20px;
+}
+
+p {
+  font-size: 22px;
+}
